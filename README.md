@@ -1,0 +1,1 @@
+A basic project telling and depicting how machine learning works and how logistic regression algorithm works. This projets is done by me using pyhton language and tried to implement a basic machine learning algorithm on very small scale.
